@@ -18,3 +18,6 @@ A simple internet connected tip jar to leave on the counter during your service.
 
 ### Online Simulator:
 - https://circuits.io/lab/
+
+### Complex "Tip Jar":
+- https://blog.arduino.cc/2016/06/29/venduino-is-a-diy-arduino-vending-machine/
