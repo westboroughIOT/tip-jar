@@ -17,3 +17,7 @@ A simple internet connected tip jar to leave on the counter during your service.
 
 ### Complex "Tip Jar":
 - https://blog.arduino.cc/2016/06/29/venduino-is-a-diy-arduino-vending-machine/
+
+### ESPDuino Reference Site:
+- http://tuanpm.net/post/espduino/
+
