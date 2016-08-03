@@ -1,5 +1,5 @@
 # Tip Jar
-A simple internet connected tip jar to leave on the counter during your service.
+An internet connected electronic hardware device that allows customer service owners to collect "tips" from their customers during thier service.
 
 ## Required Materials
 * Arduino Uno
