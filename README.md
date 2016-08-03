@@ -9,13 +9,6 @@ Owners of a Tip Jar will typically place the device in front of their customer d
 ### Build
 There are currently different versions of "Tip Jar".  Each version is determined on what type of sensors were selected.  However, the objective and results should be fairly the same.  Go to the [built-with](built-with/) directory and find the specific instructions on how to build there.
 
-
-## Required Materials
-* Arduino Uno
-* ESP8266 Module
-* Breadboard
-* Computer with OSX, Window or Linux
-
 ## Resource Links:
 
 ### IR Senors: 
