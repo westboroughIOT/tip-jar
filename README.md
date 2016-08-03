@@ -1,6 +1,10 @@
 # Tip Jar
 An internet connected electronic hardware device that allows customer service owners to collect "tips" from their customers during thier service.
 
+## How To Build
+There are currently different versions of "Tip Jar".  Each version is determined on what type of sensors were selected.  However, the objective and results should be fairly the same.  Go to the built-with directory and find the specific instructions on how to built there.
+
+
 ## Required Materials
 * Arduino Uno
 * ESP8266 Module
