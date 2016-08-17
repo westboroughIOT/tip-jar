@@ -20,7 +20,7 @@ int maximumRange = 200; // Maximum range needed
 int minimumRange = 0; // Minimum range needed
 long duration, distance; // Duration used to calculate distance
 int dis_without_tip; // sets the distance without a tip
-int calibrations[10];
+int distance_w_adjust; // add some type of correction for senstivity factors.
 
 void setup() {
  Serial.begin (9600);
@@ -55,8 +55,10 @@ void loop() {
 
 // for debugging show the current distance
 // Serial.println(distance);
+
+ distance_w_adjust = distance  + 1; // give some room for error of 1 
  
- if ( distance < dis_without_tip){
+ if ( distance_w_adjust < dis_without_tip ){
 //  
  Serial.println("tip");
  digitalWrite(LEDPin, HIGH);
