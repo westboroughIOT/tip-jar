@@ -1,5 +1,4 @@
 # Todo
-- [ ] Assemble materials together
-- [ ] Get a reading from sensor
-- [ ] Connect to wifi
-- [ ] Send found sensor readings to web interface
+- [ ] establish web interface
+- [ ] device owner wifi install ( how is user going to get the device going out the box )
+- [ ] improve enclosure ( requirements: hand full of change, a few coins )
