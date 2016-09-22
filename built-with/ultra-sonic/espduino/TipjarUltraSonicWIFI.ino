@@ -1,8 +1,8 @@
 /*
- * This code is for tipjar to sense the coin drop and send the event to thingsspeak.com.
+ * This code is for tipjar to sense the coin drop and send the event to thingspeak.com.
  * A web interface will let the user to configure wireless connection to ESPDUINO board.
  * Once the wireless connection is made, WIFI credentials are stored in EEPROM and retrieved. 
- * By Pugal Shanmugam for WestoboroughIOT.
+ * By Pugal Shanmugam for WestboroughIOT.
  */
 
 
