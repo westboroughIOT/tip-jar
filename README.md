@@ -1,8 +1,10 @@
 # Tip Jar
 An internet connected electronic hardware device that allows customer service owners to collect "tips" from their customers during thier service.
 
-## How To
+## Contribute
+The [To Do List](todo.md) is all the current things we need to accomplish at the moment.  Simply look at the list and find something available.  Once it is complete do a push to the master. 
 
+## How To
 ### Use Device
 Owners of a Tip Jar will typically place the device in front of their customer during some type of service.  When a customer feels that the owner has done a good service they will reward the owner with an certain amount of coinage.  This coinage is placed in the Tip Jar device by the customer.  The device then keeps track of the reward and details can be accessed via a web interface.
 
